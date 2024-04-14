@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: (https://github.com/KaueACLima/projeto-qr-code-component-main)
-- URL do site ativo: (https://kaueaclima.github.io/projeto-perfil-de-links-sociais/)
+- URL do site ativo: (https://kaueaclima.github.io/projeto-qr-code-component-main/)
 
 ## Meu processo
 
